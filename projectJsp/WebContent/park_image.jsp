@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>JSP 변환과정 실습</title>
+<title>park_image</title>
 </head>
 <body>
-	<h1>hello JSP!!</h1>
-	<h1>JSP 실습입니다.</h1>
+	<img src="./image/park.PNG" />  <!-- 이미지 폴더의 park.png를 표시합니다.  -->
 
 </body>
 </html>
